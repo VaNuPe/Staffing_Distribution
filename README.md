@@ -13,4 +13,4 @@ Determine when to send staff, and how many, to each state.
 - Counts of influenza laboratory test results by state (survey). Source: [Fluview](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)
 
 ## Results
-All the preparation and the statistical analysis were conducted on Excel, and drawing insights using data visualization techniques in [Tableau Public](https://public.tableau.com/views/RecommendationsfortheInfluenzaSeasoninU_S_/StaffPlan?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link).
+All the preparation and the statistical analysis were conducted on Excel and consolidated in an [Interim Report](Influenza_Interim_Report.pdf), and drawing insights using data visualization techniques in [Tableau Public](https://public.tableau.com/views/RecommendationsfortheInfluenzaSeasoninU_S_/StaffPlan?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link).
